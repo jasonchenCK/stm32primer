@@ -156,11 +156,5 @@ void SysTick_Handler(void)
   * @}
   */ 
 
-//djkajsklasjklajs
-//adasd
-//adsasdasd
-//asdasdasd
-//
-//qeqeqwew
-//qweqweqw
+//i dont know how to use git.
 /******************* (C) COPYRIGHT 2011 STMicroelectronics *****END OF FILE****/
